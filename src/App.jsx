@@ -1,10 +1,7 @@
-import './App.css'
+import ThemeToggle from "./components/ui/ThemeToggle";
 
 function App() {
-  return (
-    <>
-    </>
-  )
+  return <></>;
 }
 
-export default App
+export default App;
